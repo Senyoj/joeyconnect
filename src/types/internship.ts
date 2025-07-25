@@ -9,4 +9,4 @@ export interface Internship {
   location?: string;
   duration?: string;
   tags: string[];
-}
+} 

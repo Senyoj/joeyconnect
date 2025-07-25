@@ -134,4 +134,24 @@ export const internships: Internship[] = [
     tags: ["WordPress", "PHP", "Theme Development", "Freelance"],
     applicationUrl: "",
   },
+  {
+    id: "11",
+    company: "Zenith Bank Ghana",
+    role: "Internship Programme",
+    description:
+      "Zenith Bank Ghana offers internship programmes that create opportunities for students to achieve their professional and personal aspirations. The programme is designed for students looking for industry experience in banking, technology, and operations. Interns are required to submit an official internship/attachment letter from their institution and a CV. Opportunities are available across various branches in Ghana and offer hands-on exposure to real banking environments.",
+    applicationUrl: "https://www.zenithbank.com.gh/careers", 
+    deadline: "Rolling – Apply Anytime",
+    category: "Finance",
+    location: "Ghana (Onsite)",
+    duration:
+      "Typically 1–3 months (depending on applicant's institution schedule)",
+    tags: [
+      "Banking",
+      "Internship",
+      "Finance",
+      "IT Support",
+      "Computer Engineering",
+    ],
+  },
 ];

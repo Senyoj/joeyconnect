@@ -58,4 +58,22 @@ export const internships: Internship[] = [
     duration: "3–6 months",
     tags: ["Graphic Design", "Content Creation", "Marketing", "Adobe Suite"],
   },
+  {
+    id: "5",
+    company: "AngloGold Ashanti North America",
+    role: "Graduate Trainee - Digital Technology",
+    description:
+      "AngloGold Ashanti (Ghana) Limited, Obuasi Gold Mine, is seeking graduates who have completed their national service within the past two years to join their 2025/2026 Graduate Trainee Programme. The program is designed to harness the skills and creativity of young professionals in the field of digital technology. Trainees will benefit from personal development, global exposure, and hands-on training in a collaborative environment.",
+    applicationUrl:
+      "https://careers.anglogoldashanti.com/job/Graduate-Trainee-Digital-Technology/1227452001/",
+    deadline: "31st July, 2025",
+    category: "Engineering",
+    location: "Ghana",
+    duration: "2 years",
+    tags: [
+      "Information Technology",
+      "Computer Science",
+      "Computer Engineering",
+    ],
+  },
 ];

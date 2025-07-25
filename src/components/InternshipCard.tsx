@@ -17,6 +17,7 @@ const categoryColors = {
   Marketing:
     "bg-orange-100 text-orange-800 dark:bg-orange-900/30 dark:text-orange-300",
   Healthcare: "bg-red-100 text-red-800 dark:bg-red-900/30 dark:text-red-300",
+  Engineering: "bg-red-100 text-red-800 dark:bg-red-900/30 dark:text-red-300",
 };
 
 export const InternshipCard = ({

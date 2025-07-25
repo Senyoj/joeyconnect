@@ -52,7 +52,7 @@ export const internships: Internship[] = [
       "Support branding and marketing efforts with strong visual design, typography, and content creation. This on-site internship offers experience in Adobe Creative Suite and customer-focused retail communication. Based in Takoradi.",
     applicationUrl:
       "https://www.linkedin.com/jobs/view/4258148763/?alternateChannel=search&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=a1vAnUQnDyCBpGG7QLhHBg%3D%3D&trackingId=VZPpXXRbO3qt%2BJTf3u9HAg%3D%3D",
-    deadline: "Null",
+    deadline: "Not specified",
     category: "Design",
     location: "Takoradi, Western Region, GH",
     duration: "3–6 months",
@@ -71,9 +71,40 @@ export const internships: Internship[] = [
     location: "Ghana",
     duration: "2 years",
     tags: [
+      "Computer Engineering",
       "Information Technology",
       "Computer Science",
-      "Computer Engineering",
     ],
+  },
+  {
+    id: "7",
+    company: "ALX Africa",
+    role: "Learner Hub Coordinator Intern",
+    description:
+      "ALX Africa is looking for a passionate, organised, and tech-savvy individual to join as a Learner Hub Coordinator Intern. The role involves overseeing hub operations, supporting learners, driving community engagement (both in-person and virtual), coordinating events, and managing communication strategies. Ideal for someone with a background in education, community building, or event coordination. Prior experience in student leadership or customer service is a plus.",
+    applicationUrl: "https://job-boards.greenhouse.io/alxafrica/jobs/7033997",
+    deadline: "Not specified",
+    category: "Tech",
+    location: "Accra, Greater Accra Region, Ghana",
+    duration: "Internship",
+    tags: [
+      "Community Engagement",
+      "Event Coordination",
+      "Virtual Community Management",
+    ],
+  },
+  {
+    id: "8",
+    company: "Skills Bridge Academy (Peak Skills Africa)",
+    role: "Videographer & Editor - Intern",
+    description:
+      "Skills Bridge Academy, a project of Peak Skills Africa, is seeking a creative and passionate Videographer & Editor Intern to support the production of an upcoming video series. The intern will be responsible for handling DSLR cameras, setting up shots, capturing high-quality footage, and editing videos professionally. A great opportunity for someone with a flair for storytelling and hands-on media production experience.",
+    applicationUrl:
+      "https://www.linkedin.com/jobs/view/4268900064/?alternateChannel=search&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=qSoYMeWFp3X632nN6mV6%2BA%3D%3D&trackingId=IB12RjCfAJt4caJSbKUPSg%3D%3D",
+    deadline: "Not specified",
+    category: "Tech",
+    location: "Accra, Greater Accra Region, Ghana",
+    duration: "Internship",
+    tags: ["Videography", "Video Editing", "Creative Production"],
   },
 ];

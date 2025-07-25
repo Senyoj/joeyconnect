@@ -21,8 +21,6 @@ export const PreviewModal = ({
     } else {
       document.body.style.overflow = "unset";
     }
-
-    // Cleanup function to restore scroll when component unmounts
     return () => {
       document.body.style.overflow = "unset";
     };
@@ -71,7 +69,6 @@ export const PreviewModal = ({
                 <p className="text-primary font-semibold text-base md:text-lg break-words">
                   {internship.company}
                 </p>
-
                 {/* Meta information */}
                 <div className="flex flex-wrap items-center gap-2 md:gap-4 mt-3 text-xs md:text-sm text-muted-foreground">
                   {internship.location && (

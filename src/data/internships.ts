@@ -107,4 +107,18 @@ export const internships: Internship[] = [
     duration: "Internship",
     tags: ["Videography", "Video Editing", "Creative Production"],
   },
+  {
+    id: "9",
+    company: "EXFI",
+    role: "Student Intern",
+    description:
+      "Join a collaborative intern team in Kumasi to work on exciting fintech projects. As a student intern, you'll contribute to building real-world applications, collaborate with teams, and gain hands-on experience in project delivery. The role requires self-motivation, good communication, and the ability to work with or without supervision.",
+    applicationUrl:
+      "https://www.linkedin.com/jobs/view/4271439740/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEFXD_wB6i4CdzMlpot5lLt6SvWfx20UyIw&utm_campaign=copy_link",
+    deadline: "Not specified",
+    category: "Finance",
+    location: "Kumasi, Ashanti Region, Ghana",
+    duration: "Internship",
+    tags: ["Fintech", "Team Collaboration", "Student Opportunity"],
+  },
 ];

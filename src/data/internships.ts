@@ -121,4 +121,17 @@ export const internships: Internship[] = [
     duration: "Internship",
     tags: ["Fintech", "Team Collaboration", "Student Opportunity"],
   },
+  {
+    id: "10",
+    company: "Clottware",
+    role: "WordPress Developer (Freelance)",
+    description:
+      "Clottware is hiring a freelance WordPress developer to convert existing HTML/CSS/JS templates into a custom WordPress classic theme using Underscores. The developer will collaborate with the internal team to build a responsive, e-commerce-ready theme. Ideal for someone experienced in PHP, WordPress theme development, and basic version control. 4-week project with milestone-based payments.",
+    deadline: "Not specified",
+    category: "Tech",
+    location: "Ghana",
+    duration: "4 weeks (Contract)",
+    tags: ["WordPress", "PHP", "Theme Development", "Freelance"],
+    applicationUrl: "",
+  },
 ];

@@ -44,10 +44,6 @@ const Index = () => {
 
   return (
     <div className="min-h-screen bg-background">
-      <div>
-        <img src="/topnavimg.png" alt="nav iamge" />
-      </div>
-
       <Navbar
         searchTerm={searchTerm}
         onSearchChange={setSearchTerm}
@@ -64,7 +60,7 @@ const Index = () => {
           className="text-center mb-12"
         >
           <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-            Joey's Intership{" "}
+           Intership{" "}
             <span className="bg-gradient-primary bg-clip-text text-transparent">
               Connect
             </span>
@@ -138,15 +134,13 @@ const Index = () => {
           </motion.div>
         )}
       </main>
-
       {/* Modal */}
       <PreviewModal
         internship={selectedInternship}
         isOpen={isModalOpen}
         onClose={handleModalClose}
       />
-
-      <img src="/footerimg.png" alt="" />
+      {/* <img src="/footerimg.png" alt="" /> */}
     </div>
   );
 };
